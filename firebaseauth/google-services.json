@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "852833643416",
+    "project_id": "lesson7-d9063",
+    "storage_bucket": "lesson7-d9063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852833643416:android:b4994eeb03f1f65d8d99ed",
+        "android_client_info": {
+          "package_name": "ru.mirea.zhurin.d.r.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852833643416-uemspj71j726f07vkb5coqqc6ur11ni3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFv9Kpet17BRK9wE0vGfgLMfat5ZfRMXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852833643416-uemspj71j726f07vkb5coqqc6ur11ni3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852833643416:android:eddd7e1215e1a55d8d99ed",
+        "android_client_info": {
+          "package_name": "ru.mirea.zhurin.d.r.lesson7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852833643416-uemspj71j726f07vkb5coqqc6ur11ni3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFv9Kpet17BRK9wE0vGfgLMfat5ZfRMXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852833643416-uemspj71j726f07vkb5coqqc6ur11ni3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
